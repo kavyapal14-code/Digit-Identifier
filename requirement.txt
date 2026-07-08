@@ -1,6 +1,7 @@
-pickle
 streamlit
-numpy
-pandas
-scikit-learn
 
+numpy
+
+Pillow
+
+tensorflow-cpu
